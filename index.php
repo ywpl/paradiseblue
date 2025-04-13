@@ -34,7 +34,7 @@ require "connection.php";
       <div class="content">
         <div class="container">
           <div class="content2">
-            <h1 class="text-light">Coming Soon Web Page</h1>
+            <h1 class="text-light">Paradise Blue</h1>
             <h3 class="text-light">Official Web Site</h3>
           </div>
           <div class="counter" id="countdown">
@@ -42,7 +42,7 @@ require "connection.php";
             </h2>
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
-                <p>This project is designed to let your users know that something exciting is on the way</p>
+                <p>Paradise Blue is on the way</p>
               </div>
             </div>
           </div>
