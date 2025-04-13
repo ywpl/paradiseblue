@@ -35,16 +35,10 @@ require "connection.php";
         <div class="container">
           <div class="content2">
             <h1 class="text-light">Paradise Blue</h1>
-            <h3 class="text-light">Official Web Site</h3>
           </div>
           <div class="counter" id="countdown">
             <h2>Launching in Soon
             </h2>
-            <div class="row">
-              <div class="col-sm-6 col-sm-offset-3">
-                <p>Paradise Blue is on the way</p>
-              </div>
-            </div>
           </div>
           <div class="subscribe">
             <div class="row">
