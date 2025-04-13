@@ -16,7 +16,7 @@ require "connection.php";
   <title>Coming Soon</title>
 
   <!-- Favicons -->
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/ChatGPT Image Apr 3, 2025, 02_19_06 PM.png">
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#ffffff">
 
